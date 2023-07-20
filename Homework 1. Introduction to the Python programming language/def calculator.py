@@ -31,6 +31,7 @@ X
 Sample Output:
 -2 значение X
 """
+
 def calculator(a, b, operator, c):
     '''
     This function makes calculation and return result
